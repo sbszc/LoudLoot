@@ -1,0 +1,9 @@
+## Interface: 30300
+## Title: LoudLoot
+## Version: 1.0.1
+## Notes: Screams a message when a desired item is looted (Nookin's original idea)
+## Author: sebastian.zcc
+## eMail: sebastian.zcc@gmail.com
+## URL: nourl
+
+LoudLoot.lua
